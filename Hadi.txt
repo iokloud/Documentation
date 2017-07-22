@@ -1,0 +1,1 @@
+IOK srvice should be able to commmunicate with every IoT thing on MQTT or HTTP protocol.
