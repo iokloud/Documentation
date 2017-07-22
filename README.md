@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="iokloud_git.gif" width="200"/>
+</p>
 
 
 #  :blue_book: IOK Documentation
