@@ -1,1 +1,10 @@
-IOK srvice should be able to commmunicate with every IoT thing on MQTT or HTTP protocol.
+IOK cloud service will track the state of all the devices in your home or office, so you don't have to. You will be able to Track, Observe and Control your devices. Also it can help you to better its performance.
+
+The documentation covers from beginner to advanced topic around the installation, the setup, the configuration, and the usage of IOK cloud services.
+
+📖 Features:
+1. IOK Cloud must be able to communicate with every device on MQTT, MQTTS, HTTP and HTTPS.
+2. In case that we have to setup own broker, the billing information be available.
+3. A configuration json send setup basic information to device by hhtp request or file.
+4. Make a decision how much and where must be open source in IOK cloud service?
+
